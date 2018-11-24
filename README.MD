@@ -44,5 +44,7 @@ Tip: PEm7daXEoStpCjqeuBx3xWExmtGQN2LmEf
 
 ----------
 
+### Other coins ###
+
 You can easily extend the spreadsheet to include any coin of your choice.
 Just give a new sheet a name of crypto symbol and copy paste from another. Then adjust block time if needed and yellow marked cells.
